@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# 3D PDF Interoperability Forum (3DPDF-IF)
+Welcome to the 3D PDF Interoperability Forum web page.
 
-You can use the [editor on GitHub](https://github.com/3D-PDF-Consortium/3DPDF-IF-Epic-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Epic 1 / Sprint 2
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Scope
+The goal of this sprint is to create and test PDF 2.0 files that have RichMedia annotations with 3D assets.
 
-### Markdown
+### Files
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We use GitHub to manage all the files used in a 3DPDF-IF epic ([find it here](https://github.com/3D-PDF-Consortium/3DPDF-IF-Epic-1)). Click the green Code button and select "Download Zip" to get the current copies of all the sprint files (STEP files, RichMedia annotation documents and example, etc.)
 
-```markdown
-Syntax highlighted code block
+You are also welcome to add or edit the files used in this epic. [GitHub Desktop](https://desktop.github.com/) is great for managing any contributions you make to the epic repository. To make changes, create a local clone of the repository, edit the documents locally, then commit and issue a push request to check your changes in! All changes will be reviewed before being merged.
 
-# Header 1
-## Header 2
-### Header 3
+### More info
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/3D-PDF-Consortium/3DPDF-IF-Epic-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We are happy to help with all things related to 3D PDF , the 3D PDF Consortium or this repository. Email us at info@3dpdfconsortium.org to get in touch..
