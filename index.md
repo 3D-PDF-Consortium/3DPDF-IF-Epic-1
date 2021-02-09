@@ -1,7 +1,6 @@
-# 3D PDF Interoperability Forum (3DPDF-IF)
-Welcome to the 3D PDF Interoperability Forum web page.
+Welcome to the 3D PDF Interoperability Forum (3DPDF-IF) web page.
 
-## Epic 1 / Sprint 2
+## Sprint 2
 
 ### Scope
 The goal of this sprint is to create and test PDF 2.0 files that have RichMedia annotations with 3D assets.
